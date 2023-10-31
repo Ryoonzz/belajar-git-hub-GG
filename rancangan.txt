@@ -1,4 +1,4 @@
-Nama saya Achmad Dandy C.R.
-Saya bersekolah di SMKN 2 Bangkalan di jurusan PPLG
-Kelas XI PPLG 1
-Saya mau buat web yang GG Gemink
+Rencana web portofolio:
+-home
+-contact
+-dll
